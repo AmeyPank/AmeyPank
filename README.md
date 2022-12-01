@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AmeyPank
-- 👀 I’m interested in ...Cyber Security
-- 🌱 I’m currently learning ...Cyber tools
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Ameya
+- 👀 I’m interested in ...Software-Environment
+- 🌱 I’m currently learning ...Java-Script, Java, React, Front-end-tools
+- 💞️ I’m looking to collaborate on ...Projects
 - 📫 How to reach me ...
 
 <!---
