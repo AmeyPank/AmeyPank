@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amey</h1>
+<h1 align="center">Hi <img align="center" src = "https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif?itemid=10897308" width="200px">, I'm Amey</h1>
 <img align="center" src = "https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -19,6 +19,14 @@
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/amey.pankanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amey.pankanti" height="30" width="40" /></a>
+<a href="https://instagram.com/amey_formal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amey_formal" height="30" width="40" /></a>
+<a href="https://dribbble.com/pankantiameya123_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="pankantiameya123_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pankantiameya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pankantiameya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pankantiameya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pankantiameya" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pankantiameya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pankantiameya" height="30" width="40" /></a>
+</p>
 <p align="left">
 </p>
 
