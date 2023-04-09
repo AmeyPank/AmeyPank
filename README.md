@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img align="center" src = "https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif?itemid=10897308" width="200px">, I'm Amey</h1>
-<img align="center" src = "https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif">
+<h1 align="center">Hi <img align="center" src = "https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif?itemid=10897308" width="200px"> I'm Amey</h1>
+<img id="img1" src = "https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif"  width="400px">
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameypank&label=Profile%20views&color=0e75b6&style=flat" alt="ameypank" /> </p>
