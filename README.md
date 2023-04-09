@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameypank&label=Profile%20views&color=0e75b6&style=flat" alt="ameypank" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameypank" alt="ameypank" /></a> </p>
-
 - 🔭 I’m currently working on [My Portfolio](https://ameypank.github.io/personal-portfolio/)
 
 - 🌱 I’m currently learning **Mern Stack**
