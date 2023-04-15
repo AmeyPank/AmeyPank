@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img align="center" src = "https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif?itemid=10897308" width="200px"> I'm Amey</h1>
 <img id="img1" src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdlMzBhYjcyMGRhZjY2ZTM2YjNiNjZiODE4MzZhNzZkNjFiNTRiMyZjdD1n/3ov9jQX2Ow4bM5xxuM/giphy.gif"  width="400px">
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Front-End Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameypank&label=Profile%20views&color=0e75b6&style=flat" alt="ameypank" /> </p>
 
