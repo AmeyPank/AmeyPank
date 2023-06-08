@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- ✉️  You can contact me at [Linkegin](https://www.linkedin.com/in/amey-pankanti-260898189/)
+- ✉️  You can contact me at [Linkedin](https://www.linkedin.com/in/amey-pankanti-260898189/)
 
 - ⚡ Fun fact **I think I am funny**
 
