@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameypank&label=Profile%20views&color=0e75b6&style=flat" alt="ameypank" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://ameypank.github.io/personal-portfolio/)
+- 🖥️  See my portfolio at[My Portfolio](https://ameypank.github.io/personal-portfolio/)
 
 - 🌱 I’m currently learning **Mern Stack**
-
-- 👨‍💻 All of my projects are available at [https://ameypank.github.io/personal-portfolio/](https://ameypank.github.io/personal-portfolio/)
 
 - 📫 How to reach me **pankantiameya@gmail.com**
 
