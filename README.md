@@ -9,11 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ameypank.github.io/personal-portfolio/](https://ameypank.github.io/personal-portfolio/)
 
-- 💬 Ask me about **Mern Stack**
-
 - 📫 How to reach me **pankantiameya@gmail.com**
-
-- 📄 Know about my experiences [https://ameypank.github.io/personal-portfolio/](https://ameypank.github.io/personal-portfolio/)
 
 - ⚡ Fun fact **I think I am funny**
 
