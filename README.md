@@ -5,7 +5,7 @@
 
 - 🖥️  See my portfolio at [My Portfolio](https://ameypank.github.io/personal-portfolio/)
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - ✉️  You can contact me at [Linkedin](https://www.linkedin.com/in/amey-pankanti-260898189/)
 
