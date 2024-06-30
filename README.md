@@ -1,17 +1,13 @@
 
 <h1 align="center">Hi <img align="center" src = "https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif?itemid=10897308" width="100px"> I'm Amey Pankanti</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameypank&label=Profile%20views&color=0e75b6&style=flat" alt="ameypank" /> </p>
-<h3 align="left">A passionate Front-End Developer from India</h3>
+<h3 align="left">A passionate Software Developer</h3>
 
 - 🖥️  See my portfolio at [My Portfolio](https://ameypank.github.io/personal-portfolio/)
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
 - ✉️  You can contact me at [Linkedin](https://www.linkedin.com/in/amey-pankanti-260898189/)
 
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/84746920d1a9906680c387b3cc8753ee842e996fc8915abd295011e15b594b74/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e312f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="40" height="40"/> </a> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/></a> 
