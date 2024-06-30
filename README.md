@@ -1,26 +1,60 @@
 
-<h1 align="center">Hi <img align="center" src = "https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif?itemid=10897308" width="100px"> I'm Amey Pankanti</h1>
+<h1 align="left">Hi there 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameypank&label=Profile%20views&color=0e75b6&style=flat" alt="ameypank" /> </p>
-<h3 align="left">A passionate Software Developer</h3>
+<h3 align="left">I am a passionate Software Developer</h3>
 
-- 🖥️  See my portfolio at [My Portfolio](https://ameypank.github.io/personal-portfolio/)
-
-- ✉️  You can contact me at [Linkedin](https://www.linkedin.com/in/amey-pankanti-260898189/)
+- ✉️  You can contact me at <a href="https://www.linkedin.com/in/amey-pankanti-260898189/" target="_blank" rel="noreferrer"> 
+    <img width="50" height="50" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 <h3 align="left">Skills:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/84746920d1a9906680c387b3cc8753ee842e996fc8915abd295011e15b594b74/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e312f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://litslink.com/wp-content/uploads/2020/12/node.js-logo-image.png" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text-thumbnail.png" alt="react" width="40" height="40"/> </a>
- <a href="https://start.spring.io/" target="_blank" rel="noreferrer"> <img src="https://tse1.mm.bing.net/th?id=OIP.WrM6x2H4ncsz9_dfVSghhQHaD4&pid=Api&P=0&h=180" alt="springBoot" width="40" height="40"/> </a>
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+  </a> 
+  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/github--v1.png"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/python.png"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="50" height="50"/> 
+  </a> 
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/redux.png"/> 
+  </a> 
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/nestjs.png"/> 
+  </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/typescript.png"/> 
+  </a>
+  <a href="https://start.spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/ios/50/000000/spring-logo.png"/> 
+  </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameypank&show_icons=true&locale=en&layout=compact" alt="ameypank" /></p>
 
