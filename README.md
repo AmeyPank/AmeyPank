@@ -1,87 +1,101 @@
-
-<h1 align="left">Hi there 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameypank&label=Profile%20views&color=0e75b6&style=flat" alt="ameypank" /> </p>
-<h3 align="left">I am a passionate Full Stack Developer</h3>
-
-- ✉️  You can contact me at <a href="https://www.linkedin.com/in/amey-pankanti-260898189/" target="_blank" rel="noreferrer"> 
-    <img width="50" height="50" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-
-<h3 align="left">Skills:</h3>
+<h1 align="left">Hi there 👋, I'm Amey Pankanti</h1>
 <p align="left">
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
-  </a> 
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
-  </a> 
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://komarev.com/ghpvc/?username=ameypank&label=Profile%20views&color=0e75b6&style=flat" alt="ameypank" />
+</p>
+
+<h3 align="left">A Passionate Full Stack Developer 🚀</h3>
+<p>I specialize in building web applications, from backend logic to responsive frontend interfaces. With expertise across the entire stack, I deliver end-to-end solutions with a focus on performance, scalability, and innovation.</p>
+
+- 🌱 I’m currently working with **NestJS, NextJS, Docker, Redis, and more.**
+- 🔭 I’m always eager to learn new technologies and refine my skills.
+- ✉️ You can reach me via [LinkedIn](https://www.linkedin.com/in/amey-pankanti-260898189/) <a href="https://www.linkedin.com/in/amey-pankanti-260898189/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="25" height="25"/></a>
+  
+---
+
+<h3 align="left">💼 Skills & Tools:</h3>
+
+<p align="left">
+  <!-- Frontend -->
+  <strong>Frontend:</strong> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="50" height="50"/>
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  </a>
+
+  <!-- Backend & Databases -->
+  <strong>Backend:</strong>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  </a> 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  </a> 
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-  </a> 
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/> 
-  </a> 
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-  </a> 
-  <!-- GitHub -->
-  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/github--v1.png"/> 
-  </a> 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/python.png"/> 
-  </a> 
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="50" height="50"/> 
-  </a> 
-  <!-- Redux -->
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/redux.png"/> 
-  </a> 
-  <!-- NestJS -->
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/nestjs.png"/> 
-  </a> 
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> 
   </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/typescript.png"/> 
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/nestjs.png"/>
   </a>
-  <!-- Spring -->
-  <a href="https://start.spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/ios/50/000000/spring-logo.png"/> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
   </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/docker.png"/> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   </a>
-  <!-- Redis -->
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/redis.png"/> 
+
+  <!-- Databases -->
+  <strong>Databases:</strong>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/redis.png"/>
+  </a>
+
+  <!-- Tools & Platforms -->
+  <strong>Tools:</strong>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+  </a>
+  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  </a>
+  <a href="https://start.spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios/50/000000/spring-logo.png"/>
   </a>
 </p>
 
+---
 
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameypank&show_icons=true&locale=en&layout=compact" alt="ameypank" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameypank&show_icons=true&locale=en&layout=compact" alt="ameypank" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameypank&show_icons=true&locale=en" alt="ameypank" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameypank&" alt="ameypank" /></p>
+
+---
+
+<h3 align="left">🌐 Let's Connect:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/amey-pankanti-260898189/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  <a href="mailto:ameypank@example.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+  </a>
+  <a href="https://github.com/ameypank" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/github.png"/>
+  </a>
+</p>
