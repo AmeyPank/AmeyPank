@@ -6,7 +6,7 @@
 <h3 align="left">A Passionate Full Stack Developer 🚀</h3>
 <p>I specialize in building web applications, from backend logic to responsive frontend interfaces. With expertise across the entire stack, I deliver end-to-end solutions with a focus on performance, scalability, and innovation.</p>
 
-- 🌱 I’m currently working with **NestJS, NextJS, Docker, Redis, and more.**
+- 🌱 I’m currently working with **NodeJs, ViteJs, NestJS, NextJS, Docker, Redis, Jest, and more.**
 - 🔭 I’m always eager to learn new technologies and refine my skills.
 - ✉️ You can reach me via [LinkedIn](https://www.linkedin.com/in/amey-pankanti-260898189/) <a href="https://www.linkedin.com/in/amey-pankanti-260898189/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="25" height="25"/></a>
   
@@ -50,11 +50,50 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/postgresql.png"/>
+  </a>
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/sequelize.png"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
   </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/redis.png"/>
+  </a>
+  <a href="https://typeorm.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/type-orm.png"/>
+  </a>
+
+  <!-- Migrations & Seeding -->
+  <strong>Migrations & Seeding:</strong>
+  <a href="https://sequelize.org/master/manual/migrations.html" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="48"/>
+  </a>
+  <a href="https://typeorm.io/#/seeding" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/data-configuration.png" width="48"/>
+  </a>
+
+  <!-- Testing & Quality -->
+  <strong>Testing & Quality:</strong>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/jest.png"/>
+  </a>
+  <a href="https://eslint.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/code-quality.png" width="48"/>
+  </a>
+  <a href="https://prettier.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/prettier.png" width="48"/>
+  </a>
+
+  <!-- Package Managers -->
+  <strong>Package Managers:</strong>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+  </a>
+  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/yarn.png"/>
   </a>
 
   <!-- Tools & Platforms -->
