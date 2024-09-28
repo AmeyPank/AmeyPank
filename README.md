@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi there 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameypank&label=Profile%20views&color=0e75b6&style=flat" alt="ameypank" /> </p>
-<h3 align="left">I am a passionate Software Developer</h3>
+<h3 align="left">I am a passionate Full Stack Developer</h3>
 
 - ✉️  You can contact me at <a href="https://www.linkedin.com/in/amey-pankanti-260898189/" target="_blank" rel="noreferrer"> 
     <img width="50" height="50" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
