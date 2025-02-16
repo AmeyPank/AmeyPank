@@ -4,12 +4,12 @@
 </p>
 
 <h3 align="left">A Passionate Full Stack Developer 🚀</h3>
-<p>I specialize in building web applications, from backend logic to responsive frontend interfaces. With expertise across the entire stack, I deliver end-to-end solutions with a focus on performance, scalability, and innovation.</p>
+<p>I specialize in building scalable and high-performance web applications, from backend logic to responsive frontend interfaces. With expertise across the entire stack, I deliver end-to-end solutions with a focus on innovation, performance, and scalability.</p>
 
-- 🌱 I’m currently working with **NodeJs, ViteJs, NestJS, NextJS, Docker, Redis, Jest, and more.**
+- 🌱 I’m currently working with **Node.js, Vite.js, NestJS, Next.js, Docker, Redis, Jest, and AWS.**
 - 🔭 I’m always eager to learn new technologies and refine my skills.
 - ✉️ You can reach me via [LinkedIn](https://www.linkedin.com/in/amey-pankanti-260898189/) <a href="https://www.linkedin.com/in/amey-pankanti-260898189/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="25" height="25"/></a>
-  
+
 ---
 
 <h3 align="left">💼 Skills & Tools:</h3>
@@ -109,6 +109,12 @@
   </a>
   <a href="https://start.spring.io/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios/50/000000/spring-logo.png"/>
+  </a>
+
+  <!-- Cloud & DevOps -->
+  <strong>Cloud & DevOps:</strong>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   </a>
 </p>
 
